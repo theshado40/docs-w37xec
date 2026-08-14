@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-d7wxsn.trans88.biz/sitemap.xml
